@@ -7,9 +7,9 @@ body {
 }
 
 #center {
-  display: flex;
-  justify-content: center;
-  padding: 10px
+  display: grid;
+  place-items: center;
+  height: 100vh;
 }
 
 #calculator {
